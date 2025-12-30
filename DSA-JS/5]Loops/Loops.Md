@@ -47,5 +47,5 @@
 - [x] **Q22.** Find the factorial of a number  
 - [x] **Q23.** Print the sum of all even and odd numbers in a given range separately  
 - [x] **Q24.** Print all the factors of a number  
-- [] **Q25.** Check whether a number is **Prime** or **Not Prime**  
-- [ ] **Q26.** Write a program to take two inputs `a` and `b` and find the value of `a ^ b` 
+- [x] **Q25.** Check whether a number is **Prime** or **Not Prime**  
+- [x] **Q26.** Write a program to take two inputs `a` and `b` and find the value of `a ^ b` 
