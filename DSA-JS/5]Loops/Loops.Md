@@ -37,7 +37,7 @@
 
 ---
 
-## 📝 Practice Questions (Loop-Based)
+## 📝 Practice Questions (For Loop-Based)
 
 - [x] **Q17.** Accept an integer and print **"Hello World"** `n` times  
 - [x] **Q18.** Print natural numbers up to `n`  
@@ -49,3 +49,17 @@
 - [x] **Q24.** Print all the factors of a number  
 - [x] **Q25.** Check whether a number is **Prime** or **Not Prime**  
 - [x] **Q26.** Write a program to take two inputs `a` and `b` and find the value of `a ^ b` 
+
+- While Loop
+
+- [x] **Q27.** Sum of Digit  
+- [x] **Q28.** Reverse of number  
+- [x] **Q29.** ISBN Number 
+- [x] **Q30.** Automorphic Number 
+
+- Do While Loop
+
+- [x] **Q31.** Repeat hello 
+- [x] **Q32.** Guess the number 
+- [x] **Q33.** Sasta Calculator 
+- [x] **Q34.** Project Restaurant 
