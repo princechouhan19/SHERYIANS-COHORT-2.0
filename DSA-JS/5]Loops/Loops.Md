@@ -63,3 +63,56 @@
 - [x] **Q32.** Guess the number 
 - [x] **Q33.** Sasta Calculator 
 - [x] **Q34.** Project Restaurant 
+
+- Pattern Programming
+
+- [x] **Q35.** Right Angle Triangle
+        * 
+        * * 
+        * * * 
+        * * * * 
+        * * * * *
+- [x] **Q36.** Right Angle Triangle
+        1 
+        1 2 
+        1 2 3 
+        1 2 3 4 
+        1 2 3 4 5
+- [x] **Q37.** Right Angle Triangle
+        A 
+        A B 
+        A B C 
+        A B C D 
+        A B C D E
+- [x] **Q38.** Inverted Right Angle Triangle
+        * * * * *
+        * * * * 
+        * * * 
+        * * 
+        *
+- [x] **Q39.** Mirror Right Angle Triangle
+              * 
+            * * 
+          * * * 
+        * * * * 
+      * * * * *    
+- [x] **Q40.** Pyramid
+          * 
+         * *
+        * * *
+       * * * *
+      * * * * *
+- [x] **Q41.** Print an V
+        *       *
+         *     *
+          *   *
+           * *
+            * 
+- [x] **Q42.** Print an X
+        *     *
+         *   *
+          * *
+           *
+          * *
+         *   *
+        *     *
