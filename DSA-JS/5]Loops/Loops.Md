@@ -67,52 +67,83 @@
 - Pattern Programming
 
 - [x] **Q35.** Right Angle Triangle
-        * 
-        * * 
-        * * * 
-        * * * * 
-        * * * * *
+
+<pre>
+*
+* *
+* * *
+* * * *
+* * * * *
+</pre>
+
 - [x] **Q36.** Right Angle Triangle
-        1 
-        1 2 
-        1 2 3 
-        1 2 3 4 
-        1 2 3 4 5
+
+<pre>
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+</pre>
+
 - [x] **Q37.** Right Angle Triangle
-        A 
-        A B 
-        A B C 
-        A B C D 
-        A B C D E
+
+<pre>
+A
+A B
+A B C
+A B C D
+A B C D E
+</pre>
+
 - [x] **Q38.** Inverted Right Angle Triangle
-        * * * * *
-        * * * * 
-        * * * 
-        * * 
-        *
+
+<pre>
+* * * * *
+* * * *
+* * *
+* *
+*
+</pre>
+
 - [x] **Q39.** Mirror Right Angle Triangle
-              * 
-            * * 
-          * * * 
-        * * * * 
-      * * * * *    
+
+<pre>
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+</pre>
+
 - [x] **Q40.** Pyramid
-          * 
-         * *
-        * * *
-       * * * *
-      * * * * *
-- [x] **Q41.** Print an V
-        *       *
-         *     *
-          *   *
-           * *
-            * 
+
+<pre>
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+</pre>
+
+- [x] **Q41.** Print a V
+
+<pre>
+*       *
+ *     *
+  *   *
+   * *
+    *
+</pre>
+
 - [x] **Q42.** Print an X
-        *     *
-         *   *
-          * *
-           *
-          * *
-         *   *
-        *     *
+
+<pre>
+*     *
+ *   *
+  * *
+   *
+  * *
+ *   *
+*     *
+</pre>
