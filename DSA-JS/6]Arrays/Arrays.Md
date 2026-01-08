@@ -146,9 +146,9 @@ console.log("Array elements are:", arr);
 
 ## 📝 Practice Questions
 
-- [ ] **Q43.** Sum of array's elements  
-- [ ] **Q44.** Max element from array  
-- [ ] **Q45.** Second max element from array  
+- [x] **Q43.** Sum of array's elements  
+- [x] **Q44.** Max element from array  
+- [x] **Q45.** Second max element from array  
 - [ ] **Q46.** Reverse the array  
 - [ ] **Q47.** All zeroes to left and all ones to right  
 - [ ] **Q48.** Array left rotation by 1  
